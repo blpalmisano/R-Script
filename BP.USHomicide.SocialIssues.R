@@ -1,7 +1,7 @@
 # REGRESSION ANALYSIS...
 # DEPENDENT: Homicide Rate
 # INDEPENDENT: Unemployment, Income, Bachelor's Degree, High School Degree, Obesity, Robbery, Suicide, Teen Pregnancy
-
+ 
 # IMPORT LIBRARIES & FILE...
 library(YRmisc)
 library(readxl)
