@@ -4,7 +4,7 @@
 # COMPANY: Baker Hughes Company Class A
 
 # IMPORT DATA
-spdf <- read_excel("Brianna Palmisano (X03625986) Final Project - Baker Hughes.xlsx", 
+spdf <- read_excel("BakerHughes.Data.xlsx", 
                                                                      sheet = "Input Data")
 View(spdf)
 dim(spdf)
