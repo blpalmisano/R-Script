@@ -1,4 +1,4 @@
-December 16th, 2023
+December, 2023
  ## A statistical project as to the stock price of…
 
 <img src="https://github.com/user-attachments/assets/4eec32ac-724d-4c85-a07a-9d9535ee4ad7" alt="Tableau" width="300"/>
