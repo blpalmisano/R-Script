@@ -1,3 +1,4 @@
+October, 2023
 # 🌱 Patterns in Global Gross Domestic Product, Relative to Energy Consumption  
 
 This paper examines the prominence of renewable and nonrenewable resources in global energy consumption, and the near-direct relationship that our current global energy-mix (the product-mix of energy consumption) has with global levels of economic output. My paper questions the geo-economics of natural resources as energy sources, while shining light on the weight that energy scarcity plays in economic growth.  
